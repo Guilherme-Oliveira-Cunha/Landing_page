@@ -1,0 +1,14 @@
+@font-face {
+    font-family:'Comic';
+    src: url('../components/fonts/Hey Comic.otf') format('opentype');
+    src: url('../components/fonts/Hey Comic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'Notes' ;
+    src: url('../components/fonts/Wall Notes.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
